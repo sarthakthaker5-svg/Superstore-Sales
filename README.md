@@ -109,19 +109,6 @@ Save your final screenshots in a folder named `Screenshots` using these filename
 | `Power_Query_Steps.png` | Power Query transformations and Applied Steps |
 | `Filters_and_Interactions.png` | Evidence of filters or visual interactions |
 
-## Sales Overview
-
-![Sales Overview dashboard](Screenshots/Sales_Overview.png)
-
-## Order Details
-
-![Order Details report page](Screenshots/Order_Details.png)
-
-## Power Query Transformations
-
-![Power Query Applied Steps](Screenshots/Power_Query_Steps.png)
-
----
 
 # 📂 Project Structure
 
@@ -131,15 +118,8 @@ Superstore-Sales-Dashboard/
 ├── README.md
 ├── Dataset/
 │   └── Superstore_Dataset.csv
-└── Screenshots/
-    ├── Sales_Overview.png
-    ├── Order_Details.png
-    ├── Power_Query_Steps.png
-    └── Filters_and_Interactions.png
+
 ```
-
-> Rename `Superstore_Dataset.csv` in this example if your actual dataset has a different filename. If you include the custom background image in the repository, place it in an `Assets` folder.
-
 ---
 
 # 🚀 How to Open the Report
@@ -154,7 +134,7 @@ Superstore-Sales-Dashboard/
 
 # 🎥 Project Demo Video
 
-**Video link:** [Watch the project demonstration](PASTE_YOUR_VIDEO_LINK_HERE)
+**Video link:** [Watch the project demonstration](https://drive.google.com/file/d/1988o-YtCzKeSvA9eiVs6DWZMfhTQTkdm/view)
 
 The demonstration covers dataset import, Power Query transformations, report pages, formatting, filters, slicers, and visual interactions.
 
