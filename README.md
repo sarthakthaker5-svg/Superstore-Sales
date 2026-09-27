@@ -2,11 +2,15 @@
 
 # 📊 Superstore Sales Dashboard
 
+
+
 <img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Power_Query-Data_Transformation-2673B8?style=for-the-badge" alt="Power Query">
 <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status: Completed">
 
-<br><br>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Superstore+Sales+Dashboard;Power+BI+Data+Visualization;Sales+%26+Profit+Analysis;Interactive+Business+Report" alt="Typing SVG for Superstore Sales Dashboard" />
+<br>
 
 *An interactive Power BI report for exploring Superstore sales, profit, products, regions, and order details.*
 
